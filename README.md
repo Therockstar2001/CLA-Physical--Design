@@ -1,4 +1,5 @@
 This project implements a 32-bit Carry Lookahead Adder (CLA) using full custom VLSI design flow.
+**INCLUDED ONLY SCHEMATIC FILES.
 The adder is constructed hierarchically using:
 
 1-bit Generate & Propagate (G/P) logic
