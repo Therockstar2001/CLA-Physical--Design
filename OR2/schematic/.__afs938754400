@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      sd2384
+HostName                       osl1.resource.campus.njit.edu
+ProcessIdentifier              75411
+ProcessCreationTime_UTC        1734204488
+ProcessCreationTime_Readable   Sat Dec 14 14:28:08 2024 Eastern Standard Time
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /afs/cad.njit.edu/u/s/d/sd2384/sept16/schematic/CLA/32BITCLA2/OR2/schematic1/sch.oa.cdslck
+TimeEditLocked                 Sat Dec 14 14:29:17 2024 Eastern Standard Time
