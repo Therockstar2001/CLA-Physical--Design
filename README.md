@@ -3,7 +3,7 @@ The adder is constructed hierarchically using:
 
 1-bit Generate & Propagate (G/P) logic
 4-bit CLA block
-Final 32-bit CLA (made of two 16-bit CLAs)
+Final 32-bit CLA (made of Eight 4-bit CLAs)
 
 **The design includes:
 Transistor-level schematic of all blocks (G/P block, CLA block, full adder block)
