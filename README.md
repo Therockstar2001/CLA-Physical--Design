@@ -1,5 +1,5 @@
 This project implements a 32-bit Carry Lookahead Adder (CLA) using full custom VLSI design flow.
-**INCLUDED ONLY SCHEMATIC FILES.
+**INCLUDED ONLY SCHEMATIC FILES (Done in November 2024).
 The adder is constructed hierarchically using:
 
 1-bit Generate & Propagate (G/P) logic
@@ -9,9 +9,6 @@ Final 32-bit CLA (made of Eight 4-bit CLAs)
 **The design includes:
 Transistor-level schematic of all blocks (G/P block, CLA block, full adder block)
 Symbol creation for hierarchical design
-Complete layout for each module using Siemens L-Edit
-DRC clean layouts
-LVS matched schematic ↔ layout
 HSPICE simulation for functional verification
 This demonstrates a practical full-custom digital design flow used in ASIC physical design.
 
