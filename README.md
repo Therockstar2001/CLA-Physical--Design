@@ -19,12 +19,12 @@ Translate schematic to a DRC-clean and LVS-clean layout
 Verify electrical behavior through HSPICE transient simulations
 
 **Software & Tools Used:
-*Siemens S-Edit
+*Siemens (Tanner EDA) S-Edit
 Schematic capture
 Symbol creation
 Transistor-level design
 
-*Siemens L-Edit
+*Siemens (Tanner EDA) L-Edit
 Layout creation
 DRC (Design Rule Check)
 LVS (Layout vs Schematic)
